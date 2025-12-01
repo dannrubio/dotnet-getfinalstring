@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\bin\Debug\net10.0\GetFinalString.exe
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\bin\Debug\net10.0\GetFinalString.deps.json
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\bin\Debug\net10.0\GetFinalString.runtimeconfig.json
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\bin\Debug\net10.0\GetFinalString.dll
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\bin\Debug\net10.0\GetFinalString.pdb
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\obj\Debug\net10.0\GetFinalString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\obj\Debug\net10.0\GetFinalString.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\obj\Debug\net10.0\GetFinalString.AssemblyInfo.cs
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\obj\Debug\net10.0\GetFinalString.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\obj\Debug\net10.0\GetFinalString.dll
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\obj\Debug\net10.0\refint\GetFinalString.dll
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\obj\Debug\net10.0\GetFinalString.pdb
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\obj\Debug\net10.0\GetFinalString.genruntimeconfig.cache
+C:\Users\Lenovo\source\repo\DotNet\GetFInalString\obj\Debug\net10.0\ref\GetFinalString.dll
