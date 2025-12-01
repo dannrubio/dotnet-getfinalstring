@@ -1,0 +1,83 @@
+## Ignore Visual Studio, build outputs, and user files for GetFinalString
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# Build results
+/bin/
+/obj/
+**/bin/
+**/obj/
+Debug/
+Debug/**
+out/
+publish/
+TestResults/
+
+# Target framework artifacts (example from this repo)
+# Keep patterns generic so netX outputs are ignored
+**/net*/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# Generated files
+*.g.cs
+**/*.g.cs
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.GlobalUsings.g.cs
+*.AssemblyInfo.cs
+*.*.g.*
+
+# VS build/ref folders seen in this workspace
+ref/
+refint/
+
+# User secrets and settings
+secrets.json
+appsettings.*.json
+
+# Certificates and keys
+*.pfx
+*.cer
+*.key
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.cache
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Optional: node deps if you ever use node tooling here
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore published zips and installers
+*.zip
+*.7z
+
+# Ignore compiled runtime files in bin/Debug/net* from local builds
+**/bin/Debug/**
+**/bin/Release/**
